@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    font-family: cursive;
+    background-color: azure;
+}
+
+td{
+    color: aqua;
+    font-family: cursive;
+    
+}
+
+th{
+    color: aqua;
+    font-family: cursive;
+    font-weight: 900;
+    border-color: aqua;
+}
+
+table{
+    border-collapse: collapse;
+    border-color: aqua;
+}
